@@ -1,5 +1,5 @@
 # Challenge-14
-Machine Learning Trading Bot
+# Machine Learning Trading Bot
 
 ## Overview
 The goal of this activity is to improve an existing trading algorithm using machine learning that can be used to assess and adapt to new data. By setting up a performance baseline, it is then tuned, and finally evaluated using a new ML classifier. Finally, a performance report can then be produced.
