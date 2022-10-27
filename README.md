@@ -40,3 +40,4 @@ This program is divided into the following parts:
 ## Author
 Juan Bohorquez
 
+Reference and guides - Trilogy Education Services.
